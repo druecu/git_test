@@ -1,0 +1,1 @@
+This is druecu's first git project!
